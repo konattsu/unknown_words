@@ -1,0 +1,257 @@
+{
+    "info": {
+        "url": "https://developers.google.com/idnetity/protocols/oauth2",
+        "description": "OAuth 2.0 導入用ドキュメント",
+        "created_at": "2024-01-21",
+        "updated_at": "2024-01-21",
+        "is_read_to_the_end": true
+    },
+    "words": [
+        {
+            "en": "obtain",
+            "meanings": [
+                {
+                    "ja": "(努力して)得る",
+                    "example": "obtain an access token"
+                }
+            ]
+        },
+        {
+            "en": "vary",
+            "meaning": [
+                {
+                    "ja": "異なる",
+                    "example": "They vary based on the type of application you are building."
+                },
+                {
+                    "ja": "変わる",
+                    "example": "Prices vary widely depending on the season."
+                },
+                {
+                    "ja": "を変える",
+                    "example": "vary the amount of sugar"
+                }
+            ]
+        },
+        {
+            "en": "credential",
+            "meaning": [
+                {
+                    "ja": "資格",
+                    "example": "OAuth 2.0 client credential"
+                }
+            ]
+        },
+        {
+            "en": "appropriate",
+            "meaning": [
+                {
+                    "ja": "適切な",
+                    "example": "in the appropriate format"
+                },
+                {
+                    "ja": "を私物化する",
+                    "example": "appropriate A's idea"
+                }
+            ]
+        },
+        {
+            "en": "grant",
+            "meaning": [
+                {
+                    "ja": "(許可,金品,資格)を与える",
+                    "example": "access granted by user"
+                },
+                {
+                    "ja": "(納得していないが話を進めるために)を認める",
+                    "example": "I grant you are right, but..."
+                },
+                {
+                    "ja": "助成金",
+                    "example": "student loan and grants"
+                }
+            ]
+        },
+        {
+            "en": "willing",
+            "meaning": [
+                {
+                    "ja": "…する意志がある",
+                    "example": "whether they are willing to grant the permissions"
+                },
+                {
+                    "ja": "自発的な",
+                    "example": "a willing helper"
+                }
+            ]
+        },
+        {
+            "en": "consent",
+            "meaning": [
+                {
+                    "ja": "同意",
+                    "example": "User content is not required for this flow."
+                },
+                {
+                    "ja": "同意する",
+                    "example": "consent to the terms"
+                }
+            ]
+        },
+        {
+            "en": "examine",
+            "meaning": [
+                {
+                    "ja": "を調べる",
+                    "example": "Examine scopes of access granted by the user."
+                },
+                {
+                    "ja": "を診察する",
+                    "example": "I had my eyes examined."
+                }
+            ]
+        },
+        {
+            "en": "upon",
+            "meaning": [
+                {
+                    "ja": "onの硬い表現",
+                    "example": "once upon a time"
+                }
+            ]
+        },
+        {
+            "en": "obviously",
+            "meaning": [
+                {
+                    "ja": "当然ながら",
+                    "example": "Obviously, the user must be signed in."
+                },
+                {
+                    "ja": "明らかに",
+                    "example": "It is obviously not treated as a secret."
+                }
+            ]
+        },
+        {
+            "en": "indicate",
+            "meaning": [
+                {
+                    "ja": "を示す",
+                    "example": "...which indicate the type of access"
+                }
+            ]
+        },
+        {
+            "en": "anticipate",
+            "meaning": [
+                {
+                    "ja": "を予期する",
+                    "example": "I didn't anticipate that he would come."
+                },
+                {
+                    "ja": "に備えておく",
+                    "example": "to anticipate the possibility that a granted refresh token might no longer work"
+                }
+            ]
+        },
+        {
+            "en": "restrict",
+            "meaning": [
+                {
+                    "ja": "を制限する",
+                    "example": "restricted scope verification"
+                },
+                {
+                    "ja": "を妨げる",
+                    "example": "restrict blood flow"
+                }
+            ]
+        },
+        {
+            "en": "accordingly",
+            "meaning": [
+                {
+                    "ja": "それに従って",
+                    "example": "your app must support variable token sizes accordingly"
+                }
+            ]
+        },
+        {
+            "en": "workaround",
+            "meaning": [
+                {
+                    "ja": "(システムの)一時的な解決方法",
+                    "example": "One workaround is to..."
+                }
+            ]
+        },
+        {
+            "en": "privilege",
+            "meaning": [
+                {
+                    "ja": "特権",
+                    "example": "with administrative privileges"
+                }
+            ]
+        },
+        {
+            "en": "revoke",
+            "meaning": [
+                {
+                    "ja": "を取り消す",
+                    "example": "The user has revoked your app's access"
+                }
+            ]
+        },
+        {
+            "en": "dealing",
+            "meaning": [
+                {
+                    "ja": "対応,取引",
+                    "example": "Dealing with session control policies for GCP organizations"
+                }
+            ]
+        },
+        {
+            "en": "frequent",
+            "meaning": [
+                {
+                    "ja": "頻繁な",
+                    "example": "an frequent intervals"
+                }
+            ]
+        },
+        {
+            "en": "impact",
+            "meaning": [
+                {
+                    "ja": "影響,衝撃",
+                    "example": "the social impact of science"
+                },
+                {
+                    "ja": "に影響を与える",
+                    "example": "The policy impacts access to GCC"
+                }
+            ]
+        },
+        {
+            "en": "gracefully",
+            "meaning": [
+                {
+                    "ja": "優雅に",
+                    "example": "handle gracefully"
+                }
+            ]
+        },
+        {
+            "en": "equally",
+            "meaning": [
+                {
+                    "ja": "同様に",
+                    "example": "Equally, you must not use, ..."
+                }
+            ]
+        }
+    ]
+}

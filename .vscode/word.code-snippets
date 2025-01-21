@@ -1,0 +1,72 @@
+{
+    "info": {
+        "prefix": "info",
+        "body": [
+            "\"info\": {",
+            "    \"url\": \"${1:url}\",",
+            "    \"description\": \"${2:description}\"",
+            "    \"created_at\": \"${3:created_at}\",",
+            "    \"updated_at\": \"${3:updated_at}\"",
+            "    \"is_read_to_the_end\": false",
+            "},",
+            "\"words\": [",
+            "    ${0}",
+            "]"
+        ],
+        "description": "word"
+    },
+    "word": {
+        "prefix": "word",
+        "body": [
+            "{",
+            "    \"en\": \"${1:en}\",",
+            "    \"meaning\": [",
+            "        {",
+            "            \"ja\": \"${2:ja}\",",
+            "            \"example\": \"${3:example}\"",
+            "        }",
+            "    ]",
+            "},"
+        ],
+        "description": "word"
+    },
+    "word_list": {
+        "prefix": "word_list",
+        "body": [
+            "{",
+            "    \"en\": \"${1:en}\",",
+            "    \"meaning\": [",
+            "        {",
+            "            \"ja\": \"${2:ja}\",",
+            "            \"example\": \"${3:example}\"",
+            "        },",
+            "        {",
+            "            \"ja\": \"${4:ja}\",",
+            "            \"example\": \"${5:example}\"",
+            "        }${6}",
+            "    ]",
+            "},"
+        ],
+        "description": "word_list"
+    },
+    "insert_word": {
+        "prefix": "insert_word",
+        "body": [
+            "{",
+            "    \"ja\": \"${1:ja}\",",
+            "    \"example\": \"${2:example}\"",
+            "}",
+        ],
+        "description": "insert_word"
+    },
+    "insert_word_with_colon": {
+        "prefix": "insert_word_with_colon",
+        "body": [
+            "{",
+            "    \"ja\": \"${1:ja}\",",
+            "    \"example\": \"${2:example}\"",
+            "},",
+        ],
+        "description": "insert_word_with_colon"
+    }
+}
