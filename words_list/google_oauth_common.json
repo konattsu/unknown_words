@@ -18,7 +18,7 @@
         },
         {
             "en": "vary",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "異なる",
                     "example": "They vary based on the type of application you are building."
@@ -35,7 +35,7 @@
         },
         {
             "en": "credential",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "資格",
                     "example": "OAuth 2.0 client credential"
@@ -44,7 +44,7 @@
         },
         {
             "en": "appropriate",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "適切な",
                     "example": "in the appropriate format"
@@ -57,7 +57,7 @@
         },
         {
             "en": "grant",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "(許可,金品,資格)を与える",
                     "example": "access granted by user"
@@ -74,7 +74,7 @@
         },
         {
             "en": "willing",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "…する意志がある",
                     "example": "whether they are willing to grant the permissions"
@@ -87,7 +87,7 @@
         },
         {
             "en": "consent",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "同意",
                     "example": "User content is not required for this flow."
@@ -100,7 +100,7 @@
         },
         {
             "en": "examine",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を調べる",
                     "example": "Examine scopes of access granted by the user."
@@ -113,7 +113,7 @@
         },
         {
             "en": "upon",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "onの硬い表現",
                     "example": "once upon a time"
@@ -122,7 +122,7 @@
         },
         {
             "en": "obviously",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "当然ながら",
                     "example": "Obviously, the user must be signed in."
@@ -135,7 +135,7 @@
         },
         {
             "en": "indicate",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を示す",
                     "example": "...which indicate the type of access"
@@ -144,7 +144,7 @@
         },
         {
             "en": "anticipate",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を予期する",
                     "example": "I didn't anticipate that he would come."
@@ -157,7 +157,7 @@
         },
         {
             "en": "restrict",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を制限する",
                     "example": "restricted scope verification"
@@ -170,7 +170,7 @@
         },
         {
             "en": "accordingly",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "それに従って",
                     "example": "your app must support variable token sizes accordingly"
@@ -179,7 +179,7 @@
         },
         {
             "en": "workaround",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "(システムの)一時的な解決方法",
                     "example": "One workaround is to..."
@@ -188,7 +188,7 @@
         },
         {
             "en": "privilege",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "特権",
                     "example": "with administrative privileges"
@@ -197,7 +197,7 @@
         },
         {
             "en": "revoke",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を取り消す",
                     "example": "The user has revoked your app's access"
@@ -206,7 +206,7 @@
         },
         {
             "en": "dealing",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "対応,取引",
                     "example": "Dealing with session control policies for GCP organizations"
@@ -215,7 +215,7 @@
         },
         {
             "en": "frequent",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "頻繁な",
                     "example": "an frequent intervals"
@@ -224,7 +224,7 @@
         },
         {
             "en": "impact",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "影響,衝撃",
                     "example": "the social impact of science"
@@ -237,7 +237,7 @@
         },
         {
             "en": "gracefully",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "優雅に",
                     "example": "handle gracefully"
@@ -246,7 +246,7 @@
         },
         {
             "en": "equally",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "同様に",
                     "example": "Equally, you must not use, ..."
