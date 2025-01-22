@@ -9,7 +9,7 @@
     "words": [
         {
             "en": "properly",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "適切に",
                     "example": "A properly authorized web server application can access an API"
@@ -22,7 +22,7 @@
         },
         {
             "en": "frequently",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "しばしば",
                     "example": "Web server applications frequently also use service accounts."
@@ -31,7 +31,7 @@
         },
         {
             "en": "conjunction",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "結合,関連,連結",
                     "example": "It can use service accounts in conjunction with user authorization."
@@ -40,7 +40,7 @@
         },
         {
             "en": "prerequisite",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "前提条件",
                     "example": "Prerequisites: A Google Cloud Platform project with an OAuth 2.0 client ID."
@@ -62,7 +62,7 @@
         },
         {
             "en": "inadvertently",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "無意識に,不注意に",
                     "example": "to avoid inadvertently sharing your client credentials"
@@ -71,7 +71,7 @@
         },
         {
             "en": "likelihood",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "可能性,見込み",
                     "example": "There may be an inverse relationship between the number of scopes requested and the likelihood of obtaining user consent."
@@ -80,7 +80,7 @@
         },
         {
             "en": "behalf",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "味方,利益,代表",
                     "example": "on the user's behalf(ユーザーに代わって)"
@@ -136,7 +136,7 @@
         },
         {
             "en": "inform",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "に通知する",
                     "example": "These values inform the consent screen that Google displays to the user."
@@ -145,7 +145,7 @@
         },
         {
             "en": "indicate",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "を示す,指摘する",
                     "example": "indicate a false answer"
@@ -158,7 +158,7 @@
         },
         {
             "en": "instruct",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "に…するよう指図する",
                     "example": "This value instructs the Google authorization server to return a refresh token and an access token the first time that your application exchange an authorization code for tokens."
@@ -171,7 +171,7 @@
         },
         {
             "en": "mitigate",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "軽減する,を和らげる",
                     "example": "mitigating cross-site request forgery(CSRF) attacks"
@@ -180,7 +180,7 @@
         },
         {
             "en": "assurance",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "保証",
                     "example": "Since your `redirect_url` can be guessed, using a state value can increase your assurance that an incoming connection is the result of an authentication request."
@@ -189,7 +189,7 @@
         },
         {
             "en": "typically",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "一般的に",
                     "example": "Typically, WinAPI is known for its speed."
@@ -198,7 +198,7 @@
         },
         {
             "en": "explicitly",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "明確な,明示的に",
                     "example": "Access is explicitly granted to your OAuth client ID."
@@ -207,7 +207,7 @@
         },
         {
             "en": "malicious",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "悪意のある",
                     "example": "not a malicious script"
@@ -216,7 +216,7 @@
         },
         {
             "en": "途中",
-            "meaning": [
+            "meanings": [
                 {
                     "ja": "途中",
                     "example": "https://developers.google.com/identity/protocols/oauth2/web-server#handlingresponse"
