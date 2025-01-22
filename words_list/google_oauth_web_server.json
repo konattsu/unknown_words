@@ -1,0 +1,227 @@
+{
+    "info": {
+        "url": "https://developers.google.com/identity/protocols/oauth2/web-server",
+        "description": "OAuth 2.0 Webサーバー用ドキュメント",
+        "created_at": "2024-01-22",
+        "updated_at": "2024-01-22",
+        "is_read_to_the_end": false
+    },
+    "words": [
+        {
+            "en": "properly",
+            "meaning": [
+                {
+                    "ja": "適切に",
+                    "example": "A properly authorized web server application can access an API"
+                },
+                {
+                    "ja": "当然のことながら,本来は",
+                    "example": "The data is properly encrypted."
+                }
+            ]
+        },
+        {
+            "en": "frequently",
+            "meaning": [
+                {
+                    "ja": "しばしば",
+                    "example": "Web server applications frequently also use service accounts."
+                }
+            ]
+        },
+        {
+            "en": "conjunction",
+            "meaning": [
+                {
+                    "ja": "結合,関連,連結",
+                    "example": "It can use service accounts in conjunction with user authorization."
+                }
+            ]
+        },
+        {
+            "en": "prerequisite",
+            "meaning": [
+                {
+                    "ja": "前提条件",
+                    "example": "Prerequisites: A Google Cloud Platform project with an OAuth 2.0 client ID."
+                }
+            ]
+        },
+        {
+            "en": "adhere",
+            "meanings": [
+                {
+                    "ja": "遵守する",
+                    "example": "These endpoints must adhere to Google's validation rules."
+                },
+                {
+                    "ja": "粘着する",
+                    "example": "This tape adheres to any kind of material."
+                }
+            ]
+        },
+        {
+            "en": "inadvertently",
+            "meaning": [
+                {
+                    "ja": "無意識に,不注意に",
+                    "example": "to avoid inadvertently sharing your client credentials"
+                }
+            ]
+        },
+        {
+            "en": "likelihood",
+            "meaning": [
+                {
+                    "ja": "可能性,見込み",
+                    "example": "There may be an inverse relationship between the number of scopes requested and the likelihood of obtaining user consent."
+                }
+            ]
+        },
+        {
+            "en": "behalf",
+            "meaning": [
+                {
+                    "ja": "味方,利益,代表",
+                    "example": "on the user's behalf(ユーザーに代わって)"
+                }
+            ]
+        },
+        {
+            "en": "retrieve",
+            "meanings": [
+                {
+                    "ja": "を取り戻す,を回収する",
+                    "example": "Your application retrieves tokens needed to make API requests on the user's behalf."
+                },
+                {
+                    "ja": "を検索する",
+                    "example": "retrieve files on the server"
+                }
+            ]
+        },
+        {
+            "en": "determine",
+            "meanings": [
+                {
+                    "ja": "を特定する",
+                    "example": "determine the cause of the error"
+                },
+                {
+                    "ja": "を決定する",
+                    "example": "Determines where the API server redirects the user after the user completes the authorization flow."
+                }
+            ]
+        },
+        {
+            "en": "trail",
+            "meanings": [
+                {
+                    "ja": "を引きずる,を靡かせる",
+                    "example": "trailing slash(/) must all match"
+                },
+                {
+                    "ja": "の後を追う",
+                    "example": "trail the man to his house"
+                },
+                {
+                    "ja": "小道",
+                    "example": "a mountain trail"
+                },
+                {
+                    "ja": "跡",
+                    "example": "be on the trail of the terrorists"
+                }
+            ]
+        },
+        {
+            "en": "inform",
+            "meaning": [
+                {
+                    "ja": "に通知する",
+                    "example": "These values inform the consent screen that Google displays to the user."
+                }
+            ]
+        },
+        {
+            "en": "indicate",
+            "meaning": [
+                {
+                    "ja": "を示す,指摘する",
+                    "example": "indicate a false answer"
+                },
+                {
+                    "ja": "を案に知らせる",
+                    "example": "She tried to indicate that it was time to leave."
+                }
+            ]
+        },
+        {
+            "en": "instruct",
+            "meaning": [
+                {
+                    "ja": "に…するよう指図する",
+                    "example": "This value instructs the Google authorization server to return a refresh token and an access token the first time that your application exchange an authorization code for tokens."
+                },
+                {
+                    "ja": "に教える",
+                    "example": "I instructed him in the art of sailing."
+                }
+            ]
+        },
+        {
+            "en": "mitigate",
+            "meaning": [
+                {
+                    "ja": "軽減する,を和らげる",
+                    "example": "mitigating cross-site request forgery(CSRF) attacks"
+                }
+            ]
+        },
+        {
+            "en": "assurance",
+            "meaning": [
+                {
+                    "ja": "保証",
+                    "example": "Since your `redirect_url` can be guessed, using a state value can increase your assurance that an incoming connection is the result of an authentication request."
+                }
+            ]
+        },
+        {
+            "en": "typically",
+            "meaning": [
+                {
+                    "ja": "一般的に",
+                    "example": "Typically, WinAPI is known for its speed."
+                }
+            ]
+        },
+        {
+            "en": "explicitly",
+            "meaning": [
+                {
+                    "ja": "明確な,明示的に",
+                    "example": "Access is explicitly granted to your OAuth client ID."
+                }
+            ]
+        },
+        {
+            "en": "malicious",
+            "meaning": [
+                {
+                    "ja": "悪意のある",
+                    "example": "not a malicious script"
+                }
+            ]
+        },
+        {
+            "en": "途中",
+            "meaning": [
+                {
+                    "ja": "途中",
+                    "example": "https://developers.google.com/identity/protocols/oauth2/web-server#handlingresponse"
+                }
+            ]
+        }
+    ]
+}

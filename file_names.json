@@ -1,4 +1,4 @@
 {
     "dir": "words_list",
-    "files": ["google_oauth_common.json"]
+    "files": ["google_oauth_common.json", "google_oauth_web_server.json"]
 }
