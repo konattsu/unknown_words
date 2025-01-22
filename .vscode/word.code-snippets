@@ -4,9 +4,9 @@
         "body": [
             "\"info\": {",
             "    \"url\": \"${1:url}\",",
-            "    \"description\": \"${2:description}\"",
+            "    \"description\": \"${2:description}\",",
             "    \"created_at\": \"${3:created_at}\",",
-            "    \"updated_at\": \"${3:updated_at}\"",
+            "    \"updated_at\": \"${3:updated_at}\",",
             "    \"is_read_to_the_end\": false",
             "},",
             "\"words\": [",
